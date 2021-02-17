@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+.container{
+  margin: 10%;
+  border: 1px solid pink;
+  background-color: #fff;
+  display: flex;    
+  justify-content: space-evenly;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: 'Roboto Slab', serif;
+  flex-direction: row;
+}
